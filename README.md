@@ -44,10 +44,6 @@ To run the unit tests,
 
     python tests/runner.py tests
 
-## Future
-
-The [roadmap](https://github.com/twilio/stashboard/wiki/Roadmap) details future plans for Stashboard.
-
 ## Acknowledgements
 * Buttons by [Necolas](https://github.com/necolas/css3-github-buttons)
 * Fugue icons by [Yusuke Kamiyamane](http://p.yusukekamiyamane.com/)
